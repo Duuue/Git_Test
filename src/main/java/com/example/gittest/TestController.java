@@ -19,7 +19,7 @@ public class TestController {
     return count;
   }
 
-  private void getAge(){
+  private void getName(){
     System.out.println("This is my name.");
   }
 }
