@@ -9,6 +9,7 @@ package com.example.gittest;
  * @Version: 1.0
  */
 public class UserController {
+/*计算字符串次数*/
   public int getCount(String str1, String str2){
     int count = 0;
     return count;
