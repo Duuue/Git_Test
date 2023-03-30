@@ -19,6 +19,10 @@ public class TestController {
     return count;
   }
 
+  private void getName(){
+    System.out.println("This is my name.");
+  }
+
   private void setName(String name){
     System.out.println("My name is " +name);
   }
