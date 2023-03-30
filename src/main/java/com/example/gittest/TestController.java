@@ -13,4 +13,9 @@ public class TestController {
     System.out.println("test01");
     System.out.println("test02");
   }
+
+  private int getCount(){
+    int count = 0;
+    return count;
+  }
 }
