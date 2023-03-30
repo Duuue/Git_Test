@@ -18,4 +18,8 @@ public class TestController {
     int count = 0;
     return count;
   }
+
+  private void getName(){
+    System.out.println("This is my name.");
+  }
 }
