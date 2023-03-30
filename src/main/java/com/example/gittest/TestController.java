@@ -1,5 +1,7 @@
 package com.example.gittest;
 
+import sun.nio.cs.ext.MSISO2022JP;
+
 /**
  * @Package: com.example.gittest
  * @ClassName: TestController
@@ -9,4 +11,7 @@ package com.example.gittest;
  * @Version: 1.0
  */
 public class TestController {
+  public static void main(String[] args) {
+    System.out.println("test02");
+  }
 }
